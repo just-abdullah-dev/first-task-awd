@@ -8,5 +8,10 @@ git remote add origin repo-link.git
 git push -u origin main
 
 
+after changes:
+git add .
+git commit -m "added cmd  txt file"
+git push -u origin main
+
 
 
