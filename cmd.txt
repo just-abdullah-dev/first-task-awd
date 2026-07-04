@@ -1,0 +1,12 @@
+first time:
+git init
+
+git add .
+git commit -m "msg"
+git branch -m main
+git remote add origin repo-link.git
+git push -u origin main
+
+
+
+
